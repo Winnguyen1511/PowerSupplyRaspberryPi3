@@ -1,4 +1,9 @@
 # PowerSupplyRaspberryPi3
+Author: Nguyen Huynh Dang Khoa - Victor Nguyen  
+January 2020  
+Major: Embedded System-Computer Sciences  
+University: Danang University of Sciences and Technology  
+## About
 MSP430 control the power supply for the Raspberry Pi3 B+. It wait until RPi to shutdown completely and cut the supply power  
 - Raspberry must also be configured:  
 1)Install gpio-startup-service.sh into /etc/profile.d to make sure it run when RPi is turned on  
